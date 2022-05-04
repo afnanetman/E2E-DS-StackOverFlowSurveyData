@@ -1,0 +1,148 @@
+skills_group_0:
+- Groovy
+- Java
+- Oracle
+- Spring
+- Oracle Cloud Infrastructure
+- Atom
+- Eclipse
+- IntelliJ
+- NetBeans
+- Sublime Text
+skills_group_1:
+- C#
+- F#
+- PowerShell
+- SQL
+- VBA
+- Microsoft SQL Server
+- ASP.NET
+- 'ASP.NET Core '
+- .NET Core / .NET 5
+- .NET Framework
+- Xamarin
+- Microsoft Azure
+- Notepad++
+- Rider
+- Visual Studio
+skills_group_10:
+- HTML/CSS
+- JavaScript
+- jQuery
+- Visual Studio Code
+skills_group_11:
+- Assembly
+- C
+- C++
+- Qt
+skills_group_12:
+- Scala
+- Apache Spark
+- Hadoop
+skills_group_13:
+- Objective-C
+- Swift
+- Xcode
+skills_group_14:
+- Unity 3D
+- Unreal Engine
+skills_group_15:
+- PHP
+- MariaDB
+- MySQL
+- Drupal
+- Laravel
+- Symfony
+- Vue.js
+- PHPStorm
+- Webstorm
+skills_group_16:
+- Julia
+- R
+- RStudio
+skills_group_17:
+- Elixir
+- Erlang
+skills_group_18:
+- Svelte
+- Deno
+skills_group_19:
+- Bash/Shell
+- Perl
+- Vim
+skills_group_2:
+- Go
+- DynamoDB
+- PostgreSQL
+- Docker
+- Git
+- Kubernetes
+- AWS
+skills_group_20:
+- TypeScript
+- Angular
+- Angular.js
+- Cordova
+skills_group_21:
+- APL
+- COBOL
+- Crystal
+- Delphi
+- IBM DB2
+- IBM Cloud or Watson
+skills_group_22:
+- Keras
+- TensorFlow
+- Torch/PyTorch
+skills_group_3:
+- Matlab
+- Python
+- Django
+- FastAPI
+- Flask
+- NumPy
+- Pandas
+- IPython/Jupyter
+- PyCharm
+skills_group_4:
+- Cassandra
+- Couchbase
+- Elasticsearch
+- Redis
+- DigitalOcean
+skills_group_5:
+- Node.js
+- MongoDB
+- Express
+- Gatsby
+- React.js
+- React Native
+- Yarn
+- Heroku
+skills_group_6:
+- Clojure
+- Haskell
+- LISP
+- Rust
+- Emacs
+- Neovim
+skills_group_7:
+- Ansible
+- Chef
+- Flow
+- Pulumi
+- Puppet
+- Terraform
+skills_group_8:
+- Dart
+- Kotlin
+- Firebase
+- SQLite
+- Flutter
+- Google Cloud Platform
+- Android Studio
+skills_group_9:
+- Ruby
+- Ruby on Rails
+- RubyMine
+- TextMate
